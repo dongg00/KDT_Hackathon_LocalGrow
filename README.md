@@ -19,6 +19,10 @@
 - **주요 기술:** OpenAI API (GPT-4o, DALL·E 3, Whisper API), Tavily API(RAG), LangChain, Pillow, Runway Gen-4 API, Streamlit
 - **협업 도구:** GitHub, Slack, Notion
 
+## 시스템 아키텍처
+
+![아키텍처](images/로컬Grow_아키텍처.png)
+
 ## 서비스 구성
 
 1. **브랜딩 스토리 생성**
