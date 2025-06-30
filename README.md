@@ -1,6 +1,6 @@
 # 푸른싹수: 로컬 소상공인을 위한 생성형 AI 마케팅 자동화 플랫폼
 
-![LocalGrow Banner](https://your-image-url-if-any)
+![LocalGrow Banner](images/로컬Grow_logo.png)
 
 ## 프로젝트 소개
 
@@ -42,3 +42,7 @@
 | 장동민 | AI 모델 설계           |
 | 박채연 | AI 멀티모달 모듈 개발  |
 | 유호진 | AI / 웹 스토리 모듈 개발 |
+
+## 개발 추진 일정
+
+![개발일정](images/로컬Grow_개발일정.png)
