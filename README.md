@@ -11,7 +11,6 @@
 
 ## 기술 스택
 
-> **주요 기술:** OpenAI API (GPT-4o, DALL·E 3, Whisper API), Tavily API(RAG), LangChain, Pillow, Runway Gen-4 API, Streamlit
 
 | 구분       | 사용 기술 |
 |-----------|-----------|
@@ -62,6 +61,15 @@
 | 블로그 | 유튜브 | 인스타그램 |
 |--------|--------|------------|
 | <img src="images/플랫폼_맞춤_마케팅_콘텐츠(블로그).png" width="300"/> | <img src="images/플랫폼_맞춤_마케팅_콘텐츠(유튜브).png" width="300"/> | <img src="images/플랫폼_맞춤_마케팅_콘텐츠(인스타).png" width="300"/> |
+***
+
+## 핵심 기여
+
+***
+
+## 폴더 구조
+
+***
 
 
 
