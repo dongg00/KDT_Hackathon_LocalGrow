@@ -1,8 +1,7 @@
 # 푸른싹수: 로컬 소상공인을 위한 생성형 AI 마케팅 자동화 플랫폼
 
-![LocalGrow Banner](images/로컬Grow_logo.png)
 <p align="center">
-  <img src="images/로컬Grow_logo.png" alt="LocalGrow Banner" width="200"/>
+  <img src="images/로컬Grow_logo.png" alt="LocalGrow Banner" width="150"/>
 </p>
 
 ## 프로젝트 소개
