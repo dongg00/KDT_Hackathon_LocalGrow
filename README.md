@@ -2,7 +2,7 @@
 
 ![LocalGrow Banner](images/로컬Grow_logo.png)
 <p align="center">
-  <img src="images/로컬Grow_logo.png" alt="LocalGrow Banner" width="400"/>
+  <img src="images/로컬Grow_logo.png" alt="LocalGrow Banner" width="200"/>
 </p>
 
 ## 프로젝트 소개
