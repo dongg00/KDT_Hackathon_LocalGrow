@@ -11,7 +11,7 @@
 
 ## 기술 스택
 
-- **주요 기술:** OpenAI API (GPT-4o, DALL·E 3, Whisper API), Tavily API(RAG), LangChain, Pillow, Runway Gen-4 API, Streamlit
+> **주요 기술:** OpenAI API (GPT-4o, DALL·E 3, Whisper API), Tavily API(RAG), LangChain, Pillow, Runway Gen-4 API, Streamlit
 
 | 구분       | 사용 기술 |
 |-----------|-----------|
@@ -48,8 +48,8 @@
 ---
 
 ### 3. 상품 홍보 이미지 생성
-   - **DALL·E 3 + Pillow, LangChain**을 통해 상품 우수성과 지역 특성을 반영한 이미지 생성
-ㅋ
+> **DALL·E 3 + Pillow, LangChain**을 통해 상품 우수성과 지역 특성을 반영한 이미지 생성
+
 | **상품 홍보 이미지 생성** |
 |-------------|
 | <img src="images/상품_홍보_이미지_생성.png" width="400"/> | 
@@ -57,7 +57,7 @@
 ---
 
 ### 4. 채널별 맞춤 마케팅 콘텐츠 제공
-   - 생성된 스토리·이미지를 기반으로 **Runway Gen-4 API**로 인스타그램, 유튜브, 블로그 등 채널에 최적화된 콘텐츠를 자동으로 생성
+> 생성된 스토리·이미지를 기반으로 **Runway Gen-4 API**로 인스타그램, 유튜브, 블로그 등 채널에 최적화된 콘텐츠를 자동으로 생성
 
 | 블로그 | 유튜브 | 인스타그램 |
 |--------|--------|------------|
