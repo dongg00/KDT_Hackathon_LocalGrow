@@ -15,9 +15,7 @@
 
 ## 기술 스택
 
-- **언어:** Python
 - **주요 기술:** OpenAI API (GPT-4o, DALL·E 3, Whisper API), Tavily API(RAG), LangChain, Pillow, Runway Gen-4 API, Streamlit
-- **협업 도구:** GitHub, Slack, Notion
 
 | 구분       | 사용 기술 |
 |-----------|-----------|
