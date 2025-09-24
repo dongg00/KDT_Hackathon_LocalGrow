@@ -19,6 +19,12 @@
 - **주요 기술:** OpenAI API (GPT-4o, DALL·E 3, Whisper API), Tavily API(RAG), LangChain, Pillow, Runway Gen-4 API, Streamlit
 - **협업 도구:** GitHub, Slack, Notion
 
+| 구분       | 사용 기술 |
+|-----------|-----------|
+| 언어       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 주요 기술   | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![Tavily](https://img.shields.io/badge/Tavily_API-FF6F00?style=flat) ![Pillow](https://img.shields.io/badge/Pillow-92C1F0?style=flat) ![Runway](https://img.shields.io/badge/Runway_Gen--4-FF007F?style=flat) |
+| 프레임워크/플랫폼 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+
 ## 시스템 아키텍처
 
 ![아키텍처](images/로컬Grow_아키텍처.png)
