@@ -47,15 +47,10 @@
 ### 1. 상품 정보 업로드
 판매자가 상품 정보, 지역 정보, 생산자 스토리를 텍스트/음성으로 업로드합니다.
 
-<p align="center">
-  <img src="images/사용자입력1.png" width="200"/>
-  <img src="images/사용자입력2.png" width="200"/>
-  <img src="images/사용자입력3.png" width="200"/>
-</p>
 
 | 입력 화면 1 | 입력 화면 2 | 입력 화면 3 |
 |-------------|-------------|-------------|
-| <img src="images/사용자입력1.png" width="200"/> | <img src="images/사용자입력2.png" width="200"/> | <img src="images/사용자입력3.png" width="200"/> |
+| <img src="images/사용자입력1.png" width="300"/> | <img src="images/사용자입력2.png" width="300"/> | <img src="images/사용자입력3.png" width="300"/> |
 
 ---
 
@@ -78,7 +73,7 @@ DALL·E 3 + Pillow를 통해 상품 우수성과 지역 특성을 반영한 이�
 
 | 블로그 | 유튜브 | 인스타그램 |
 |--------|--------|------------|
-| <img src="images/플랫폼_맞춤_마케팅_콘텐츠(블로그).png" width="200"/> | <img src="images/플랫폼_맞춤_마케팅_콘텐츠(유튜브).png" width="200"/> | <img src="images/플랫폼_맞춤_마케팅_콘텐츠(인스타).png" width="200"/> |
+| <img src="images/플랫폼_맞춤_마케팅_콘텐츠(블로그).png" width="300"/> | <img src="images/플랫폼_맞춤_마케팅_콘텐츠(유튜브).png" width="300"/> | <img src="images/플랫폼_맞춤_마케팅_콘텐츠(인스타).png" width="300"/> |
 
 
 
