@@ -71,7 +71,6 @@
 
 ## 폴더 구조(요약)
 📂 로컬Grow/
- ┣ 📂 __pycache__/              # 파이썬 캐시 파일 (자동 생성, 실행 시 바이트코드 저장)
  ┣ 📜 api_function.py           # OpenAI API, Runway 등 주요 API 호출 및 데이터 처리 함수 모듈
  ┣ 📜 app.py                    # Streamlit 실행 메인 파일 (웹 UI 구동)
  ┣ 📜 prompts.py                # LLM에 전달할 프롬프트 모음 (브랜딩 스토리, 콘텐츠 생성 등)
